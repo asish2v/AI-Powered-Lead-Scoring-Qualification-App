@@ -1,4 +1,4 @@
-# Caprae AI-Readiness Challenge – Lead Scoring App (Streamlit)
+# Lead Scoring App (Streamlit)
 
 ## Objective
 
@@ -27,4 +27,3 @@ A scoring model based on domain expertise and rules, not ML, to maintain explain
 
 ---
 
-Ready to convert this to PDF or push to GitHub? Just say so!
