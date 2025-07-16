@@ -1,4 +1,4 @@
-# Caprae Lead Scoring App
+
 
 This Streamlit app enhances lead generation by scoring leads based on job title, domain, location, and LinkedIn presence. It also provides:
 
